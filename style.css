@@ -1,0 +1,17 @@
+
+.bigger{
+    width:100%;
+    height:200px;
+    background-size:cover;
+    background-position:center;
+    position:relative;
+}
+.smaller{
+    width:100%;
+    height:50px;
+    background-color:rgba(0,0,0,0.6);
+    position:absolute;
+    bottom:0;
+    text-align:center;
+    color:white;
+}
